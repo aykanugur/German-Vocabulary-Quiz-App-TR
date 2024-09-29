@@ -1,0 +1,6 @@
+tkinter
+os
+sys
+sqlite3
+random
+pathlib
